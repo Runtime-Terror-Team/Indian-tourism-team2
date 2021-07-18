@@ -13,11 +13,6 @@ body {
   font-weight: bold;
   border-bottom: 1px solid #565387;
 }
-.btn-get-started{
-  border: 1px solid;
-  border-radius: 1rem;
-  padding: .5rem;
-}
 .btn-get-started:hover{
   background-color: blue;
 }
